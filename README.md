@@ -1,10 +1,10 @@
 ### Hi I'm Timothée Lainé!
 
-I used to be a linguist, then a professionnal writer, then I tried some things here and there and ended up back to one of my first love: programming.
+I used to be a linguist, then a professionnal writer, then I tried some things here and there and ended up back to one of my first love: programming. ⚡
 
-I'm currently learning how to work as a web programmer at Elan Formation in Strasbourg (in France) and I'm looking for an internship to confirm my formation. These days, I'm learning PHP, HTML and CSS, and have a personnal interest in C#.
+I'm currently learning how to work as a web programmer at Elan Formation in Strasbourg (in France) and I'm looking for an internship to confirm my formation. These days, I'm learning PHP, HTML and CSS, and have a personnal interest in C#. ✨
 
-I'm always open to opportunities, and would be happy to work in other countries than France, whether remotely or in person!
+I'm always open to opportunities, and would be happy to work in other countries than France, whether remotely or in person! 🔭
 
 <!--
 **TimLaine/TimLaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
